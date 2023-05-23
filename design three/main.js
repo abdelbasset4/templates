@@ -50,7 +50,7 @@ TweenMax.from(".btn",2,{
 })
 
 TweenMax.from("main .container img",2,{
-  delay:4.2,
+  delay:4.5,
   scale:0,
   y:-50,
   ease:Expo.easeInOut,
